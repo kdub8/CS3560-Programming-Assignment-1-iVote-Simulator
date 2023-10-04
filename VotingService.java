@@ -94,26 +94,31 @@ public class VotingService {
 
         // print results for question 1 to console
         System.out.println("Question 1: ");
+        System.out.println("Correct Answer was 3) Computer Science. ");
         question.analyzeResults(numRight1, numOfStudents);
         System.out.println();
 
         // print results for question 2 to console
         System.out.println("Question 2: ");
+        System.out.println("Correct Answer was 2) Walnut Creek. ");
         question.analyzeResults(numRight2, numOfStudents);
         System.out.println();
 
         // print results for question 3 to console
         System.out.println("Question 3: ");
+        System.out.println("Correct Answer was 2) Kickboxing. ");
         question.analyzeResults(numRight3, numOfStudents);
         System.out.println();
 
         // print results for question 4 to console
         System.out.println("Question 4: ");
+        System.out.println("Correct Answer was 2) 1. ");
         question.analyzeResults(numRight4, numOfStudents);
         System.out.println();
 
         // print results for question 5 to console
         System.out.println("Question 5: ");
+        System.out.println("Correct Answer was 1) Black and 4) Navy Blue. ");
         question.analyzeResults(numRight5, numOfStudents);
         System.out.println();
     }
