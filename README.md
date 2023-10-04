@@ -1,12 +1,12 @@
 # Voting Service Simulation in Java
 
-Author: Kevin Wong
+#Author: Kevin Wong
 
-Course: CS3560-01
+#Course: CS3560-01
 
-Assignment: Programming Assignment 1
+#Assignment: Programming Assignment 1
 
-Due Date: 10/5/2023
+#Due Date: 10/5/2023
 
 ---
 
